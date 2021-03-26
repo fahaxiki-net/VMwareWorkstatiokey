@@ -1,14 +1,19 @@
 # VMwareWorkstatiokey
 VMware 许可密钥 原文照搬
 
+https://gist.github.com/gopalindians
 
 VMware Workstation 16 pro serial key
 Serial keys:
 
 ZF3R0-FHED2-M80TY-8QYGC-NPKYF
-YF390-0HF8P-M81RQ-2DXQE-M2UT6
-ZF71R-DMX85-08DQY-8YMNC-PPHV8
+
+YF390-0HF8P-M81RQ-2DXQE-M2UT6  
+
+ZF71R-DMX85-08DQY-8YMNC-PPHV8  
+
 AZ3E8-DCD8J-0842Z-N6NZE-XPKYF
+
 FC11K-00DE0-0800Z-04Z5E-MC8T6
 
 If the keys worked for you, this(https://isha.sadhguru.org/mahashivratri/sadhguru/articles/shambho-a-gentle-form-of-shiva/) will also work.
